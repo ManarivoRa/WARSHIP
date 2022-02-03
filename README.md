@@ -1,2 +1,2 @@
 # WARSHIP
-This game is the original warship game. Yo play with it in the console of python.
+This game is the original warship game. You can play with it in the Python console.
