@@ -1,10 +1,3 @@
-"""
-    @ Amina Khalane
-    @ Djelni Abdel Malik
-    @ RANDRIAMAROMANANA Manarivo
-
-                                PROJET BATAILLE NAVALE TD3 INFORMATIQUE
-"""
 from random import randrange
 from re import search
 #BONUS CHANGEMENT DE COULEURS DE L'AFFICHAGE
